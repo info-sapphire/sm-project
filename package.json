@@ -13,9 +13,16 @@
     "format": "npm run prettier && npm run lint"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "concurrently": "^4.1.1",
+    "connect-timeout": "^1.9.0",
+    "consola": "^2.11.3",
     "core-js": "^3.6.4",
     "cross-env": "^7.0.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "mongoose": "^5.9.5",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
     "vuex": "^3.1.2"
